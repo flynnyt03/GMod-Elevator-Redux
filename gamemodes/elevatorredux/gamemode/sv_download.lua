@@ -1477,8 +1477,5 @@ local function AddPrecacheResources()
 end
 
 AddPrecacheResources()
-resource.AddWorkshop( 158915836 )
+resource.AddWorkshop( 3108149554 )
 resource.AddWorkshop( 546392647 )
-if game.GetMap("elevator_redux_beta") then
-	resource.AddWorkshop( 2546524440 )
-end

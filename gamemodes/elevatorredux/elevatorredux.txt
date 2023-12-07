@@ -3,10 +3,10 @@
 "elevatorredux"
 {
 	"base"		"base"
-	"title"		"Elevator Reudx"
+	"title"		"Elevator: Reudx"
 	"maps"		"^elevator_"
 	"menusystem"	"1"
-	"workshopid"	"158915836"
+	"workshopid"	"3108149554"
 
 
 	"settings"
