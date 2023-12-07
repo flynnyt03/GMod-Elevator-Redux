@@ -1,0 +1,6 @@
+"vertexLitGeneric"
+{
+	"$basetexture" "models/billiards/chrome"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .65 .65 .65 ]"
+}

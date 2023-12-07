@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sunabouzu/ashtray"
+	"$envmapmask" "models/sunabouzu/ashtray_spec"
+	"$envmapcontrast" 1
+	"$envmapsaturation" .7
+	"$envmaptint" "[ .75 .75 .75 ]"
+	"$selfillum" 1
+	
+	"$phong" "1"
+//	"$phongexponent" "65"
+	"$phongexponenttexture" "models/sunabouzu/ashtray_spec"
+	"$phongfresnelranges" "[1 2 4]"
+	"$phongboost" "6"
+
+	"$rimlight" "1"						
+	"$rimlightexponent" "20"				
+	"$rimlightboost" "2"
+}

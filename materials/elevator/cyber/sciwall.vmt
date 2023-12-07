@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "elevator/cyber/sciwall"
+	"$bumpmap" "elevator/cyber/sciwall_bump"
+	"$surfaceprop" "metal"
+}

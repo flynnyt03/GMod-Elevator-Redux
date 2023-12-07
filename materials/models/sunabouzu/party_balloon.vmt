@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sunabouzu/party_balloon"
+	"$phong" "1"
+	"$phongexponent" "24"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[2 1 .8]"
+}

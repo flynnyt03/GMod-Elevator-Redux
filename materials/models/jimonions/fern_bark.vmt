@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/jimonions/fern_bark"
+	"$model" 1
+	"$AlphaTest" 1
+	"$nocull" 1
+}

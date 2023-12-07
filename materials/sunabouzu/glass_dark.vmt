@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sunabouzu/glass_dark"
+	"$surfaceprop" "Glass"
+	"%keywords" "suna"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" .7
+	"$envmaptint" "[ .75 .75 .75 ]"
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sunabouzu/elevator_roof"
+	$selfillum 1
+	$phong 1
+	$phongexponent 5
+	$phongboost	1
+	$phongfresnelranges	"[0.05 0.5 1]"
+}

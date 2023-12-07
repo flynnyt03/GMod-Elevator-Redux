@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sunabouzu/plastic_ceiling"
+	"$bumpmap" "sunabouzu/plastic_ceiling_nrml"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" .7
+	"$envmaptint" "[ .75 .75 .75 ]"
+	"$surfaceprop" "plastic"
+	"%keywords" "sunabouzu"
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sunabouzu/tree_card_fixed"
+	"%keywords" "sunabouzu"
+	"$alphatest" 1
+	"$nodecal" 1
+}

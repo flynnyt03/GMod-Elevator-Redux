@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "jimonions/grass"
+	"$basetexture2" "jimonions/rockwall"
+	"$surfaceprop" "grass"
+	"$surfaceprop2" "rock"
+	"$bumpmap2" "jimonions/rockwall_normal"	
+	"%keywords" "blend"
+}
+

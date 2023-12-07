@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/sunabouzu/dumb_project_note"
+	$model 1
+	"UnlitGeneric_HDR_DX9"
+	{
+		"$color" "[0.5 0.5 0.5]" //fixes the HDR issue
+	}
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/jimonions/modular_rock"
+	"$bumpmap" "models/jimonions/modular_rock_normal"
+	"$model" 1
+	"$surfaceprop" "rock"
+	"$normalmapalphaenvmapmask" 1
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongexponent"   "60"
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[.2 .4 .5]"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sunabouzu/streamer3"
+	"$nocull" 1
+}

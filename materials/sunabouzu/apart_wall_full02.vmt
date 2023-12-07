@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sunabouzu/apart_wall_full02"
+	"$surfaceprop" "Wood_Plank"
+	$reflectivity "[.5 .5 .5]"
+	$detail detail\noise_detail_01
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+	"%keywords" "suna"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sunabouzu/paper_stack"
+	"$nocull" 1
+}

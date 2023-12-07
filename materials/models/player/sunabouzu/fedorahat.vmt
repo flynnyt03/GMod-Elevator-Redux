@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/sunabouzu/fedorahat"
+	"$nocull" 1
+}

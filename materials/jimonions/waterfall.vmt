@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "jimonions/waterfall"
+	"$translucent" 1
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 1
+			"texturescrollangle" -90
+		} 
+	}
+}

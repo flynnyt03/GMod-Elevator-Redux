@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sunabouzu/snowy/snow_box"
+	"$surfaceprop" "silent"
+	"%keywords" "sunabouzu snowy"
+	"$nodecal" 1
+	"UnlitGeneric_HDR_DX9"
+	{
+		"$color" "[0.5 0.5 0.5]" //fixes the HDR issue
+	}
+}

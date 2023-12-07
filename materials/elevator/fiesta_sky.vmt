@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+   "$basetexture" "elevator/fiesta_sky"
+  	"UnlitGeneric_HDR_DX9"
+	{
+		"$color" "[0.5 0.5 0.5]" //fixes the HDR issue
+	}
+
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "8"
+      }
+   }
+}

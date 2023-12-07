@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/sunabouzu/newdudes/eyeball_l"
+	"$iris" "models/sunabouzu/newdudes/pupil_l"
+	"$halflambert" 1
+}

@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sunabouzu/mono/mono_woodfloor"
+	"$bumpmap" "sunabouzu/woodfloor_nrml"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" .7
+	"$envmaptint" "[ .5 .5 .5 ]"
+	"$surfaceprop" "wood"
+	"%keywords" "sunabouzu"
+}

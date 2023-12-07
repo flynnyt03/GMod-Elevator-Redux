@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sunabouzu/suna_plast03b"
+	"$bumpmap" "sunabouzu/suna_plast_nrml"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" .7
+	"$envmaptint" "[ .25 .25 .25 ]"
+	$detail detail\plaster_detail_01
+	$detailscale 5
+	$detailblendfactor .8
+	$detailblendmode 0
+	"$surfaceprop" "plaster"
+	"%keywords" "sunabouzu"
+}

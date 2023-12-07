@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sunabouzu/oleg_is_cool"
+	"$selfillum" 1
+}

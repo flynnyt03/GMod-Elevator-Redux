@@ -1,0 +1,9 @@
+"Spritecard"
+{
+	$depthblend 0
+	"$basetexture"	"sunabouzu/cig_smoke"
+	"$surfaceprop"	"default"
+	"$translucent"	1
+	"$vertexcolor" 	1
+	"$vertexalpha"	1
+}

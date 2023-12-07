@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sunabouzu/mono/mono_burnt"
+	"$selfillum" 1
+	"$surfaceprop" "wood"
+	"%keywords" "sunabouzu mono"
+}

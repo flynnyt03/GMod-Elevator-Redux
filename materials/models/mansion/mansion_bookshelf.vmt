@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Mansion/mansion_bookshelf"
+	$detail detail\wood_detail_01 //This model is from a mod that was originally designed to have hand-painted textures. Re-texture this properly later
+	$detailscale 2.563
+	$detailblendfactor .8
+	$detailblendmode 0
+}

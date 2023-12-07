@@ -1,0 +1,12 @@
+"Refract"
+{
+ 	"$model" 1
+ 	"$refractamount" "0"
+ 	"$bluramount" "40"
+	"$REFRACTTINT" "{255 255 255}"
+	"$scale" "[1 1]"
+	"$dudvmap" "sunabouzu/dof_nrml"
+	"$normalmap" "sunabouzu/dof_nrml"
+	"$surfaceprop" "glass"
+
+}

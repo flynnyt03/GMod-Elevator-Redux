@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pt/lobby/neon_bar2"
+	"$surfaceprop" "Metal"
+	"$selfillum" 1
+}

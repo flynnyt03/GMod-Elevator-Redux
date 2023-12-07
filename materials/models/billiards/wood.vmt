@@ -1,0 +1,7 @@
+"vertexLitGeneric"
+{
+	"$basetexture" "models/billiards/wood"
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[ .2 .2 .2]"
+	//"$envmapmask" "models/billiards/wood_mask"
+}

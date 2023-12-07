@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "justanotter/mapcredits"
+	$alphatest "0"
+	$translucent "1"
+}

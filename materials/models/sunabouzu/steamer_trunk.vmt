@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sunabouzu/steamer_trunk"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/sunabouzu/ceiling_fan_spec"
+	"$envmapcontrast" 1
+	"$envmapsaturation" .7
+	"$envmaptint" "[ .5 .5 .5 ]"
+}

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sunabouzu/mono/mono_rug"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"	
+	"$decal" 1
+//	"$decalscale" 0.25
+	"$translucent" 1
+}

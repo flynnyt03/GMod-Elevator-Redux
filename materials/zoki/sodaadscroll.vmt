@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "zoki/SodaadScroll"
+	"$surfaceprop" "Computer"
+ "Proxies"
+{
+  "TextureScroll"
+  {
+   "texturescrollvar" "$baseTextureTransform"
+   "texturescrollrate" .05
+   "texturescrollangle" 270
+  }
+ }
+}

@@ -1,0 +1,19 @@
+"UnlitGeneric"
+{
+   "$basetexture" "elevator/fiesta_bruno"
+   "$alphatest" 1
+	"UnlitGeneric_HDR_DX9"
+	{
+		"$color" "[0.5 0.5 0.5]" //fixes the HDR issue
+	}
+
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "8"
+      }
+   }
+}

@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "jimonions/dirt"
+	"$basetexture2" "jimonions/grass"
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "grass"
+	$detail detail\noise_detail_01
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+	"%detailtype" "grassy"
+	"%keywords" "blend sprite"
+}
+

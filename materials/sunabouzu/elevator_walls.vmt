@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sunabouzu/elevator_walls"
+	"$surfaceprop" "Wood_Solid"
+	"$envmap" "env_cubemap"
+	$envmapmask		"sunabouzu/elevator_walls_spec"
+	"$envmapcontrast" 1
+	"$envmapsaturation" .7
+	"$envmaptint" "[ .75 .75 .75 ]"
+	"%keywords" "sunabouzu"
+}

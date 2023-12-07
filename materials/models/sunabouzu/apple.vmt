@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sunabouzu/apple"
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongfresnelranges" "[1 2 4]"
+	"$phongboost" "6"
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models/sunabouzu/newdudes/trunk/glint"
+	"$additive" 1
+	"$model" 1
+}

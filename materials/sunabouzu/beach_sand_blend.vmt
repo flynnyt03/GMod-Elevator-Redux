@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "sunabouzu/beach_sand"
+	"$bumpmap" "sunabouzu/beach_sand_normal"
+	"$basetexture2" "sunabouzu/beach_sand_wet"
+	"$bumpmap2" "sunabouzu/beach_sand_normal"
+	"$surfaceprop" "sand"
+	"$surfaceprop2" "sand"
+	"$blendmodulatetexture" "nature/blendtexture01"
+	"%keywords" "sunabouzu"
+}

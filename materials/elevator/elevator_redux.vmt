@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"elevator\elevator_redux"
+	"$translucent" "1"
+	"$ignorez" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}

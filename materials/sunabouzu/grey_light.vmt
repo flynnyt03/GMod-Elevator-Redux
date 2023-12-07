@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sunabouzu/grey_light"
+	"%keywords" "sunabouzu mono"
+	"UnlitGeneric_HDR_DX9"
+	{
+		"$color" "[0.5 0.5 0.5]" //fixes the HDR issue
+	}
+}
