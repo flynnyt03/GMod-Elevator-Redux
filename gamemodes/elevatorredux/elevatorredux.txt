@@ -3,8 +3,8 @@
 "elevatorredux"
 {
 	"base"		"base"
-	"title"		"Elevator: Reudx"
-	"maps"		"^elevator_"
+	"title"		"Elevator: Redux"
+	"maps"		"^elevator"
 	"menusystem"	"1"
 	"workshopid"	"3108149554"
 
