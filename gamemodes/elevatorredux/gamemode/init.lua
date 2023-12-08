@@ -1052,3 +1052,6 @@ function GM:EntityTakeDamage( ent, dmginfo  )
 	end
 
 end
+
+
+ 

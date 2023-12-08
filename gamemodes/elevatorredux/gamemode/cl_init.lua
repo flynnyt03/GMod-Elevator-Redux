@@ -452,3 +452,24 @@ function GM:PostPlayerDraw( ply )
 end
 
 
+/*
+	Tell player about singleplayer issues
+*/
+
+hook.Add("InitPostEntity", "Tellthem", function()
+	if game.SinglePlayer() == true then
+		local errorsnd = "ambient/alarms/klaxon1.wav"
+		local errorsnd2 = "error.wav"
+		LocalPlayer():ChatPrint("Warning:")
+		LocalPlayer():ChatPrint("Elevator: Redux is unstable and buggy in single player due to a bug in Garry's Mod. We recommend that you play on a server, or alternativly you can start a new game and select 2 player mode.")
+		surface.PlaySound(errorsnd)
+		surface.PlaySound(errorsnd2)
+	end
+
+end)
+
+
+
+
+
+

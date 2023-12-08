@@ -1,11 +1,12 @@
 # elevator-redux
 NOTE:
-This is still in development the page will be updated with a workshop link with the working gamemode fully there.
+This is still in development.
 
 
 Fixing GMod Elevator Source
 
-
+Workshop:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3108149554
 
 Requirements:
 https://steamcommunity.com/workshop/filedetails/?id=546392647
