@@ -138,12 +138,12 @@ end
  * Draws a vignette over the screen
  */
 function GM:HUDPaintBackground()
---[[
+
 	if Vignette then
 		surface.SetDrawColor( 0, 0, 0, 200 )
 		surface.SetMaterial( VignetteMat )
 		surface.DrawTexturedRect( 0, 0, ScrW(), ScrH() )
-	end--]]
+	end
 	
 end
 
