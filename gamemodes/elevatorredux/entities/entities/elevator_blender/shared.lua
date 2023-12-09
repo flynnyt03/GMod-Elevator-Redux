@@ -18,9 +18,8 @@ ENT.LoadRoom 		= true
 
 
 
-ENT.SoundBlend		= "GModTower/lobby/blender/drink_blend.wav"
-ENT.SoundSpit		= "GModTower/lobby/blender/drink_spit.wav"
-
+ENT.SoundBlend		= "elevator/effects/drink_blend.wav"
+ENT.SoundSpit		= "elevator/effects/drink_spit.wav"
 
 ENT.BlendDelay		= 4 // how long should we blend for?
 

@@ -14,12 +14,11 @@ ENT.Base			= "base_anim"
 
 ENT.Model			= Model( "models/sunabouzu/juice_cup.mdl" )
 
-ENT.DrinkSounds		= { Sound( "GModTower/lobby/blender/drink01.wav" ),
+ENT.DrinkSounds		= { Sound( "elevator/effects/drink01.wav" ),
 
-						Sound( "GModTower/lobby/blender/drink02.wav" ),
+						Sound( "elevator/effects/drink02.wav" ),
 
-						Sound( "GModTower/lobby/blender/drink03.wav" ) }
-
+						Sound( "elevator/effects/drink03.wav" ) }
 
 
 if CLIENT then return end
