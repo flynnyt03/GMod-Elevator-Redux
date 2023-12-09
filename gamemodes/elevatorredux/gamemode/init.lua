@@ -7,7 +7,6 @@ AddCSLuaFile( "cl_legs.lua" )
 AddCSLuaFile( "scoreboard/controls/cl_list.lua" )
 AddCSLuaFile( "scoreboard/cl_playerlist.lua" )
 AddCSLuaFile( "scoreboard/cl_init.lua" )
-AddCSLuaFile( "cl_thirdperson.lua" )
 
 
 AddCSLuaFile( "shared.lua" )

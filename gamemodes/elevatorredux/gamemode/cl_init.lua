@@ -3,7 +3,6 @@ include( "scoreboard/controls/cl_list.lua" )
 include( "scoreboard/cl_playerlist.lua" )
 include( "scoreboard/cl_init.lua" )
 include( "shared.lua" )
-include( "cl_thirdperson.lua" )
 
 include( "billiards/cl_billiards.lua" )
 include( "postprocess/init.lua" )
