@@ -1,3 +1,6 @@
+include("shared.lua")
+
+
 usermessage.Hook( "ambient_generic_lua_play", function( um )
 
 	// Gather networked data

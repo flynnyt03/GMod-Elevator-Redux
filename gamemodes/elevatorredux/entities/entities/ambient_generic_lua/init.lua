@@ -1,9 +1,12 @@
-AddCSLuaFile( "cl_init.lua" )
+AddCSLuaFile("cl_init.lua")
+AddCSLuaFile("shared.lua")
+include("shared.lua")
+
 
 ENT.Type 	= "point"
 ENT.Base	= "base_point"
 
-ENT.Clients		= {}
+ENT.Players		= {}
 ENT.Playing		= false
 ENT.Disabled	= false
 ENT.Sound		= nil
