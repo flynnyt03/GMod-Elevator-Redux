@@ -202,8 +202,7 @@ PixelTailDevs["STEAM_0:1:4556804"]	= true	// Azuisleet
 
 
 local BluestoneDevs = {}
-BluestoneDevs["STEAM_0:1:90573021"] = true // Yuni
-BluestoneDevs["STEAM_0:1:41323547"] = true // kiwi
+BluestoneDevs["STEAM_0:0:115320789"] = true // zia
 BluestoneDevs["STEAM_0:0:78540453"] = true // Treycen
 BluestoneDevs["STEAM_0:1:75090064"] = true // Flynn
 BluestoneDevs["STEAM_0:1:20931067"] = true // Right behind you
