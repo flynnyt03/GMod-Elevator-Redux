@@ -1478,4 +1478,4 @@ end
 
 AddPrecacheResources()
 resource.AddWorkshop( 3108149554 )
-resource.AddWorkshop( 546392647 )
+resource.AddWorkshop( 3001397905 )
